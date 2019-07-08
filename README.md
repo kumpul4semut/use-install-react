@@ -18,6 +18,7 @@ create-react-app awesome-project
 ```
 
 #Deploy React To Github
+
 1.Install dev depenci
 ```
 npm install gh-pages --save-dev
@@ -33,6 +34,7 @@ npm install gh-pages --save-dev
 }
 ```
 3.Create Repository on github
+
 4.Init folder react project
 ```
 git init my-project
