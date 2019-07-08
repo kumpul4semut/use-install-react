@@ -17,7 +17,7 @@ npm install -g create-react-app
 create-react-app awesome-project
 ```
 
-#Deploy React To Github
+# Deploy React To Github
 
 1.Install dev depenci
 ```
@@ -42,4 +42,12 @@ git init my-project
 5.deploy
 ```
 npm run deploy
+```
+# update npm if error
+```
+sudo npm update -g create-react-app
+
+and after that create your react app
+
+create-react-app <app-name>
 ```
